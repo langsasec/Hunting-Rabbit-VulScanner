@@ -1,11 +1,3 @@
----
-title: VulScanner
-nav:
-  title: 漏洞扫描
-  path: /vulscanner
-  order: 3
----
-
 # Hunting-Rabbit-VulScanner
 
 ## 简介
